@@ -75,7 +75,7 @@ The **JSP Online Banking System** is a secure and user-friendly web-based bankin
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS (Bulma), JavaScript  
-- **Backend:** JSP, PHP  
+- **Backend:**  PHP  
 - **Database:** MySQL  
 
 ---
