@@ -84,7 +84,7 @@ The **JSP Online Banking System** is a secure and user-friendly web-based bankin
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/karnidipraveen2005/Online_Banking_System.git
+   git clone https://github.com/prasadpolisetti1/Online_Banking_System.git
    ```  
 2. Install **XAMPP** or **any PHP & MySQL server**.  
 3. Import `banking.sql` into MySQL.  
